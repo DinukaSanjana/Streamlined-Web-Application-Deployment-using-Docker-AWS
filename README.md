@@ -1,4 +1,4 @@
-# Project : Streamlined Web Application Deployment using Docker, AWS, Nginx, and
+# Project : Streamlined Web Application Deployment using Docker, AWS, Nginx
 
 ## Using Docker
 
